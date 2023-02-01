@@ -1,0 +1,38 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+body{
+     font-family: sans-serif;
+     background-color: darkslategray;
+     color: #fff;
+}
+a{
+     text-decoration: none;
+}
+
+
+/* :root{
+
+     --family: 'Nunito Sans, sans-serif';
+     --fs-sm:14px;
+     --fw-md: 16px;
+     --fw-light:300;
+     --fw-normal: 600;
+     --fw-bold: 700;
+
+     --radii: 0.5rem;
+
+
+
+
+}
+
+body[data-theme="dark"]{
+     --colors-text: hsl(200, 15%,8%)hsl(0,0%,100%)
+}
+body[data-theme="light"]{
+     --colors-text:
+} */
+
